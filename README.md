@@ -1,2 +1,2 @@
-# farm-home
+# farm2home
 simple website
